@@ -3,6 +3,10 @@ on:
   push:
     branches:
       - mkdocs
+    paths:
+      - '**.md'
+      - 'mkdocs/**'
+      - 'mkdocs.yml'
 jobs:
   deploy:
     runs-on: ubuntu-latest
