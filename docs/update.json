@@ -5,10 +5,10 @@
    "hotFix":false,
    "updateLink": "https://github.com/taggernation/Greetings-Spigot/releases",
    "data":[
-      "<SOLID:ffcbf2>Hello there, an update is available",
-      "<SOLID:ffcbf2>I believe it has some exciting new features!",
-      "<SOLID:ffcbf2>The changelogs are as follow:",
-      "<SOLID:ffcbf2>Changelog 1",
-      "<SOLID:ffcbf2>Download: https://github.com/taggernation/Greetings-Spigot/releases"
+      "Hello there, an update is available",
+      "I believe it has some exciting new features!",
+      "The changelogs are as follow:",
+      "Changelog 1",
+      "Download: https://github.com/taggernation/Greetings-Spigot/releases"
    ]
 }
