@@ -1,0 +1,13 @@
+{
+  "version": 1.2,
+  "bugFix": true,
+  "newFeature": false,
+  "hotFix": false,
+  "data": [
+    "<SOLID:ffcbf2>Hello there, an update is available",
+    "<SOLID:ffcbf2>I believe it has some exciting new features!",
+    "<SOLID:ffcbf2>The changelogs are as follow:",
+    "<SOLID:ffcbf2>Changelog 1"
+	"<SOLID:ffcbf2>Download: https://github.com/taggernation/Greetings-Spigot/releases"
+  ]
+}
