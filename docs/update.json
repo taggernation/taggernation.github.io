@@ -4,11 +4,21 @@
    "newFeature":false,
    "hotFix":false,
    "updateLink": "https://github.com/taggernation/Greetings-Spigot/releases",
-   "data":[
-      "Hello there, an update is available",
-      "I believe it has some exciting new features!",
-      "The changelogs are as follow:",
-      "Changelog 1",
-      "Download: https://github.com/taggernation/Greetings-Spigot/releases"
+   "changeLog":[
+      "Change log 1",
+      "change log 2",
+      "change log 3",
+      ],
+   "message":[
+      "<gray>There is a new version of <aqua>{pluginName}</aqua> available!</gray>",
+      "",
+      "<gray> ● <gradient:#cf1a91:#fbdbf4><bold>Your version</gradient>: <aqua>{pluginVersion}</aqua></gray>",
+      "<gray> ● <gradient:#cf1a91:#fbdbf4><bold>New version</gradient>: <aqua>{version}</aqua></gray>",
+      "<gray> ● <gradient:#cf1a91:#fbdbf4><bold>Update type</gradient>: <aqua>{type}</aqua></gray>",
+      "<gray><red>✢</red> Changelog <red>✢</red>",
+      "",
+      "{changeLog}",
+      "",
+      "<gray> ● <gradient:#cf1a91:#fbdbf4><bold>Update link</gradient>: <aqua>{updateLink}</aqua></gray>"
    ]
 }
