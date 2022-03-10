@@ -13,7 +13,7 @@
       "<gray>There is a new version of <aqua>{pluginName}</aqua> available!</gray>",
       "",
       "<gray> ● <gradient:#cf1a91:#fbdbf4><bold>Your version</gradient>: <aqua>{pluginVersion}</aqua></gray>",
-      "<gray> ● <gradient:#cf1a91:#fbdbf4><bold>New version</gradient>: <aqua>{version}</aqua></gray>",
+      "<gray> ● <gradient:#cf1a91:#fbdbf4><bold>New version</gradient>: <aqua>{latestVersion}</aqua></gray>",
       "<gray> ● <gradient:#cf1a91:#fbdbf4><bold>Update type</gradient>: <aqua>{type}</aqua></gray>",
       "<gray><red>✢</red> Changelog <red>✢</red>",
       "",
