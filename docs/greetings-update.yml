@@ -3,12 +3,12 @@
    "bugFix":false,
    "newFeature":false,
    "hotFix":false,
-   "updateLink": "https://github.com/taggernation/Greetings-Spigot/releases",
+   "updateLink":"https://github.com/taggernation/Greetings-Spigot/releases",
    "changeLog":[
       "Change log 1",
       "change log 2",
-      "change log 3",
-      ],
+      "change log 3"
+   ],
    "message":[
       "<gray>There is a new version of <aqua>{pluginName}</aqua> available!</gray>",
       "",
